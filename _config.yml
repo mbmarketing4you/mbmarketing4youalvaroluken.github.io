@@ -1,2 +1,3 @@
 name: Alvaro Luken Luna
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
