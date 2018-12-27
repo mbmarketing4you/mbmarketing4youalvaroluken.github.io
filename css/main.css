@@ -41,3 +41,20 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.intro {
+    font-family: 'Helvetica';
+    font-size: 25px;
+    border-style: dotted;
+    margin-left: all;
+}
+
+.sublist1 {
+    font-size: 15px;
+}
+
+.list {
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Helvetica';
+}
