@@ -1,6 +1,17 @@
+html {
+	padding: 10px;
+	margin: 30px;
+	background-color: white;
+	border-color: black;
+	color-profile: purple;
+}
+
+
 body {
     margin: 60px auto;
     width: 70%;
+    border-color: black;
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -27,7 +38,9 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    margin: 0;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -40,6 +53,33 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.tabs {
+	text-align: center;
+}
+
+.blurb {
+	padding: 6rem;
+	text-align: center;
+	background-color: lightgray;
+	animation: 2s infinite alternate ease-in-out breathing-color--dark;
+}
+@keyframes breathing-color--dark
+{
+	from
+	{
+		background-color: lightgray;
+	}
+	to
+	{
+		background-color: purple;
+	}
+}
+
+.container {
+	padding: 1rem;
+	background-color: white;
 }
 
 .intro {
