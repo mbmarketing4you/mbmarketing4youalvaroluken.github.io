@@ -60,6 +60,7 @@ ul.posts li {
 }
 
 .blurb {
+    font-style: normal;
 	padding: 6rem;
 	text-align: center;
 	background-color: lightgray;
