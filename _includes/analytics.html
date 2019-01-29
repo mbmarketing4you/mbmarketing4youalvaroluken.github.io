@@ -1,7 +1,6 @@
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-133315353-1');
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', '{{ site.google_analytics }}', 'auto');
+ga('send', 'pageview');
 </script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
