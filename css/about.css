@@ -4,7 +4,8 @@ html {
 	background-color: white;
 	color-profile: auto;
 	border-color: black;
-	background-image: "/images/birdman_.png";
+	background-image: url("/images/wip.jpg");
+	background-repeat: no-repeat;
 }
 
 

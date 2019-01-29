@@ -83,3 +83,7 @@ ul.posts li {
 	background-color: white;
 }
 
+.sites {
+    text-align: center;
+    animation: alternate;
+}
