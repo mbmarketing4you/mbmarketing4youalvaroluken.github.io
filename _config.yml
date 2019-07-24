@@ -1,0 +1,11 @@
+name: Alvaro Luken Luna
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
+author:
+  name: Alvaro Luken Luna
+  twitter: https://twitter.com/AlvaroLuken
+  github: https://github.com/AlvaroLuken
+  facebook: https://facebook.com/lukenskywalker
+  linkedin: https://linkedin.com/alvaro-luken-luna
