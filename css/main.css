@@ -273,6 +273,7 @@ img {
   font-size: 2rem;
   background: var(--main-gray);
   transition: background 0.3s ease-out;
+  padding-right: 8.35px;
 }
 
 .btn-show-all:hover {
