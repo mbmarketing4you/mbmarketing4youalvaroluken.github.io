@@ -56,15 +56,15 @@ html {
 
 /* Animation */
 #intro {
-  animation: animated-text 4s linear 1s 1 normal both,
-             animated-cursor 600ms linear infinite;
+  animation: animated-text 2.5s linear 1s 1 normal both,
+             animated-cursor 800ms linear infinite;
 }
 
 /* text animation */
 
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 874px;}
+  to{width: 370px;}
 }
 
 /* cursor animations */
